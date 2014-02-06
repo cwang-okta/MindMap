@@ -1,0 +1,13 @@
+//
+//  ViewController.h
+//  MindMap
+//
+//  Created by Christine Wang on 2/5/14.
+//  Copyright (c) 2014 Christine Wang. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+@end
